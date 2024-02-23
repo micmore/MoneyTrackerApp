@@ -20,4 +20,4 @@ A step by step series of examples that tell you how to get a development env run
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/budget-tracker-app.git
+git clone https://github.com/micmore/MoneyTrackerApp.git
